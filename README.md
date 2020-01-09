@@ -9,3 +9,6 @@ Demos for the Computer Vision Systems Course
 
 ## 3D Vision
 [Run the 3D vision demo](https://colab.research.google.com/github/szemenyeim/CVSDemo/blob/master/3D.ipynb)
+
+## CUDA
+[Run the CUDA demo](https://colab.research.google.com/github/szemenyeim/CVSDemo/blob/master/CUDA.ipynb)
